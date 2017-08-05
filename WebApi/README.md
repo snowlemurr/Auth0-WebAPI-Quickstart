@@ -6,5 +6,5 @@ The quickstart guide used can be found [here](https://auth0.com/docs/quickstart/
 ## Instructions
 
 To run the sample, compile and start the server locally.
-Try `http://localhost:58105/api/ping` to test that the server is running.
-Try `http://localhost:58105/api/ping/secure` with a valid token to test that the server's authorization.
+- Try `http://localhost:58105/api/ping` to test that the server is running.
+- Try `http://localhost:58105/api/ping/secure` with a valid token to test that the server's authorization.
